@@ -18,7 +18,7 @@
 - [ ] **Remove invalid tokens**
 - [X] **Deletes all DMs**
 - [X] **Semi Fast**
-- [ ] **Proxy support - HTTP/S**
+- [ ] **Proxy Support - HTTP/S**
 
 -----
 
