@@ -4,7 +4,7 @@ from re import findall
 
 tokens = []
 for line in [x.strip() for x in open(f"tokens.txt", errors="ignore").readlines() if x.strip()]:
-    for regex in (r"[\w-]{24}\.[\w-]{6}\.[\w-]{38}", r"mfa\.[\w-]{84}"):
+    for regex in (r"[\w-]{24}\.[\w-]{6}\.[\w-]{38}", r"mfa\.[\w-]{95}"):
         for token in findall(regex, line):
             tokens.append(token)
 
