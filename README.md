@@ -2,8 +2,8 @@
 
 -----
 
-- Original: https://github.com/Its-Vichy/TokenCleaner
-- Rerun this a couple of times to make sure all your tokens are cleaned. (for big amounts)
+- **Original: https://github.com/Its-Vichy/TokenCleaner**
+- **Rerun this a couple of times to make sure all your tokens are cleaned. (for big amounts)**
 
 -----
 
