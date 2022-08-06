@@ -8,6 +8,7 @@
 -----
 
 - [X] **Any Token Format - Uses Regex**
+- [X] **Accepts Regular & 2FA Tokens**
 - [X] **Removes PFP**
 - [X] **Removes Status**
 - [X] **Removes Servers**
